@@ -1,4 +1,4 @@
-![logo](https://r.resimlink.com/IOy6Wz79.png)
+![logo](https://img.imgyukle.com/2023/07/29/r19rT6.png)
 <br>
 
 ### Hi there, I'm Kerem 👋
