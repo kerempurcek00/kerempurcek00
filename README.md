@@ -5,10 +5,12 @@
 ### Hi there, I'm Kerem 👋
 
 ## I'm a Rpa Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
+  
 
 
-## Contact!
+
+## Contact
 
 - 📫 How to reach me **kerempurcek00@gmail.com**
 
