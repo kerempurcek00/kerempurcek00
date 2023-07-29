@@ -4,10 +4,6 @@
 
 ### Hi there, I'm Kerem 👋
 
-## I'm a Rpa Developer!
-- 🌱 I’m currently learning everything
-  
-
 
 
 ## Contact
