@@ -1,4 +1,4 @@
-![logo](https://img.imgyukle.com/2023/07/29/r19rT6.png)
+![logo](https://imgyukle.com/i/r19rT6)
 <br>
 
 ### Hi there, I'm Kerem 👋
