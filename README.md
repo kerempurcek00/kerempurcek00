@@ -6,9 +6,9 @@
 
 ## I'm a Rpa Developer!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 
 
+## Contact!
 
 - 📫 How to reach me **kerempurcek00@gmail.com**
 
