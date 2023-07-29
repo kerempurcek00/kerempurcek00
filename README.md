@@ -26,6 +26,6 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="python" width="40" height="40"/> </a></p> </p>
 <br />
 <br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerempurcek00&layout=compact)](https://github.com/kerempurcek00/github-readme-stats)
 ---
 
