@@ -1,5 +1,6 @@
 
-<a href="https://resimlink.com/c3RKm" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/c3RKm.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle">
+<a href="https://resimlink.com/c3RKm" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/c3RKm.png" >
+<br>
 </a>
 ## Hi there, I'm Kerem 👋
 
