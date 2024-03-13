@@ -1,7 +1,6 @@
 
-<a href="https://hizliresim.com/ldr1ll8" title="ResimLink - Resim Yükle"><img src="[url=https://hizliresim.com/ldr1ll8][img]https://i.hizliresim.com/ldr1ll8.png[/img][/url]" >
-<br>
-</a>
+
+<a href="https://resimlink.com/c3RKm" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/c3RKm.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 ## Hi there, I'm Kerem 👋
 
 
