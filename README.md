@@ -1,6 +1,4 @@
-<a href="https://resimlink.com/1FA53" title="Kerem PÜRÇEK"><img src="https://r.resimlink.com/1FA53.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle">
-</a>
-
+![banner](https://github.com/kerempurcek00/kerempurcek00/issues/new)
 
 ## Hi there, I'm Kerem 👋
 
