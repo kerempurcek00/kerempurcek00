@@ -17,11 +17,7 @@
 <br />
 
 <h3 align="left">Language and tools that I am currently learning:</h3>
-<p align="left"> <a href="https://www.uipath.com" target="_blank" rel="noreferrer"> <img src="https://r.resimlink.com/i_ugTx.png" alt="android" width="40" height="40"/> 
-</a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="python" width="40" height="40"/> </a></p> </p>
-<br />
-<br />
+![Image](https://github.com/user-attachments/assets/71dd4750-3e65-407c-8b08-2a5d0309c35a)
 
 ---
 
