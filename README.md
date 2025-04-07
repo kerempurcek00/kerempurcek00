@@ -1,5 +1,4 @@
-![banner](https://github.com/kerempurcek00/kerempurcek00/issues/new)
-
+![Image](https://github.com/user-attachments/assets/a005eb53-82b8-4b9a-9153-3d638899ff8d)
 ## Hi there, I'm Kerem 👋
 
 
