@@ -17,7 +17,7 @@
 <br />
 
 <h3 align="left">Language and tools that I am currently learning:</h3>
-![Image](https://github.com/user-attachments/assets/71dd4750-3e65-407c-8b08-2a5d0309c35a)
+![kotlin](https://github.com/user-attachments/assets/71dd4750-3e65-407c-8b08-2a5d0309c35a)
 
 ---
 
